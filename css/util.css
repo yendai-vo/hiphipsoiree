@@ -3008,7 +3008,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-size: 50px;
 	line-height: 1.2;
 	color: white;
-	text-shadow: 1px 1px 1px #000, 3px 3px 5px #fcd9f9;
+	text-shadow: 1px 1px 1px #000, 3px 3px 5px #ac8e30;
 	text-transform: uppercase;
 	letter-spacing: 6px;
 	word-spacing: 6px;
@@ -3182,7 +3182,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 13px;
-	color: #141542;
+	color: #ac8e30;
 	line-height: 1.7;
 }
 
