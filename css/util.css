@@ -3008,6 +3008,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-size: 50px;
 	line-height: 1.2;
 	color: white;
+	text-shadow: 1px 1px 1px #000, 3px 3px 5px #fcd9f9;
 	text-transform: uppercase;
 	letter-spacing: 6px;
 	word-spacing: 6px;
